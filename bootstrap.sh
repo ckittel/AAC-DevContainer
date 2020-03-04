@@ -1,6 +1,6 @@
 #!/bin/bash
 
-mkdir ~/msdocs/architecture-center-pr
+mkdir -p ~/msdocs/architecture-center-pr
 mkdir -p ~/mspnp/solution-architectures
 mkdir -p ~/mspnp/reference-architectures
 
