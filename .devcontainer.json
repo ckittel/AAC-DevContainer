@@ -3,8 +3,7 @@
         "docsmsft.docs-authoring-pack",
         "ms-vscode.PowerShell",
         "msazurermtools.azurerm-vscode-tools",
-        "GitHub.vscode-pull-request-github",
-        "vscode-icons-team.vscode-icons"
+        "GitHub.vscode-pull-request-github"
     ],
 
     "settings": {
@@ -17,5 +16,7 @@
 
     "appPort": [
 
-    ]
+    ],
+
+    "postCreateCommand": "mkdir ~/aac-pr && mkdir ~/mspnp/solution-architectures && mkdir ~/mspnp/reference-architectures"
 }
