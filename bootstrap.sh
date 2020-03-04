@@ -1,12 +1,12 @@
 #!/bin/bash
 
-mkdir ~/aac-pr 
+mkdir ~/msdocs/architecture-center-pr
 mkdir -p ~/mspnp/solution-architectures
 mkdir -p ~/mspnp/reference-architectures
 
 cp aac.code-workspace ~
 
-git clone https://github.com/MicrosoftDocs/architecture-center-pr.git ~/aac-pr
+git clone https://github.com/MicrosoftDocs/architecture-center-pr.git ~/msdocs/architecture-center-pr
 
 git clone https://github.com/mspnp/reference-architectures.git ~/mspnp/reference-architectures
 
