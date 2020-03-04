@@ -1,0 +1,20 @@
+{
+    "extensions": [
+        "docsmsft.docs-authoring-pack",
+        "ms-vscode.PowerShell",
+        "msazurermtools.azurerm-vscode-tools",
+        "GitHub.vscode-pull-request-github",
+        "vscode-icons-team.vscode-icons"
+    ],
+
+    "settings": {
+        "docs.templates.alias": "chkittel",
+        "docs.templates.githubid": "ckittel",
+        "markdown.previewFeatures": true,
+        "workbench.iconTheme": "vscode-icons"
+    },
+
+    "appPort": [
+
+    ]
+}
