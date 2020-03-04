@@ -1,0 +1,14 @@
+{
+    "folders": [
+        {
+            "path": "aac-pr"
+        },
+        {
+            "path": "mspnp/reference-architectures"
+        },
+        {
+            "path": "mspnp/solution-architectures"
+        }
+    ],
+    "settings": {}
+}
