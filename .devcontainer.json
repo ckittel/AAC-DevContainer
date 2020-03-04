@@ -18,5 +18,5 @@
 
     ],
 
-    "postCreateCommand": "mkdir ~/aac-pr && mkdir ~/mspnp/solution-architectures && mkdir ~/mspnp/reference-architectures"
+    "postCreateCommand": "mkdir ~/aac-pr && mkdir -p ~/mspnp/solution-architectures && mkdir -p ~/mspnp/reference-architectures && cd ~/aac-pr && git clone https://github.com/MicrosoftDocs/architecture-center-pr.git"
 }
