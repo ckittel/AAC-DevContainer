@@ -11,7 +11,8 @@
         "docs.templates.alias": "chkittel",
         "docs.templates.githubid": "ckittel",
         "markdown.previewFeatures": true,
-        "workbench.iconTheme": "vscode-icons"
+        "editor.fontFamily": "Fira Code",
+        "editor.fontLigatures": true
     },
 
     "appPort": [
